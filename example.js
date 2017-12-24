@@ -1,0 +1,13 @@
+var Log = require("./src/logger.js");
+Log("This is the default log.");
+Log.todo("This is a TODO log");
+Log.production("This is a PRODUCTION log.");
+Log.correction("This is a CORRECTION log.");
+Log.note("This is a NOTE log.");
+Log.trace("This is a TRACE log.");
+Log.debug("This is a DEBUG log.");
+Log.log("This is a LOG log (the default one).");
+Log.info("This is a INFO log.");
+Log.warn("This is a WARN log.");
+Log.error("This is a ERROR log.");
+Log.danger("This is a DANGER log.");

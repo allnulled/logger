@@ -1,0 +1,11 @@
+{
+  "name": "logger",
+  "version": "1.0.0",
+  "description": "Simple JavaScript logger utility, with automatic object debugging and different levels of logging already available.",
+  "main": "Log.js",
+  "scripts": {
+    "test": "node example.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
